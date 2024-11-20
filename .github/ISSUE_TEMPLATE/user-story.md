@@ -8,3 +8,6 @@ assignees: donald-macritchie
 ---
 
 As a **role** I can **capability** so that **received benefit**
+
+ACCEPTANCE CRITERIA:
+ -
